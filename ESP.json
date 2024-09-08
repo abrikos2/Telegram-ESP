@@ -1,0 +1,55 @@
+{
+  "AmountofESP": 5,
+  "ListofESP": [
+    {
+      "ESP0": {
+        "Name": "Тест2",
+        "IP": "192.168.0.1",
+        "CountFuncs": 1,
+        "Funcs": [
+          "включить БП"
+        ]
+      }
+    },
+    {
+      "ESP1": {
+        "Name": "Тест2",
+        "IP": "192.168.0.1",
+        "CountFuncs": 0,
+        "Funcs": {}
+      }
+    },
+    {
+      "ESP2": {
+        "Name": "Тест2",
+        "IP": "192.168.0.1",
+        "CountFuncs": 0,
+        "Funcs": {}
+      }
+    },
+    {
+      "ESP3": {
+        "Name": "Тест2",
+        "IP": "192.168.0.1",
+        "CountFuncs": 0,
+        "Funcs": {}
+      }
+    },
+    {
+      "ESP4": {
+        "Name": "Тест2",
+        "IP": "192.168.0.1",
+        "CountFuncs": 0,
+        "Funcs": {}
+      }
+    },
+    {
+      "ESP5": {
+        "Name": "Тест2",
+        "IP": "192.168.0.1",
+        "CountFuncs": 0,
+        "Funcs": {}
+      }
+    }
+  ]
+}
